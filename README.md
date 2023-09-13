@@ -8,4 +8,4 @@ It is a tool to help people tracking their money operations.
     -   React
 - Html, Css 
     -   Bulma
-- Docker
+- Dockersail up
