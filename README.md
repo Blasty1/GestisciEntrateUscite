@@ -5,7 +5,7 @@ It is a tool to help people tracking their money operations.
 - PHP
 -   Laravel
 - Javascript
--   React
+    -   React
 - Html, Css 
--   Bulma
+    -   Bulma
 - Docker
