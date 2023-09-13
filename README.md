@@ -3,7 +3,7 @@ It is a tool to help people tracking their money operations.
 
 ## Tecnologies Used
 - PHP
--   Laravel
+    -   Laravel
 - Javascript
     -   React
 - Html, Css 
